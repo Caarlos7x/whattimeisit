@@ -9,8 +9,6 @@ function carregar() {
   var segundo = data.getSeconds()
   var col = document.getElementById('messa')
   var span = document.getElementById('messa')
-  
-  var hora = 
       
   msg.innerHTML = `Agora são ${hora}:${minuto}:${segundo}`
 
