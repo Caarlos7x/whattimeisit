@@ -3,7 +3,7 @@
 <img height="300px" src="https://i.imgur.com/tbzrLkP.gif">
 
 
-Deploy: https://caarlos7x.github.io/gitfav2.0/
+[Deploy](https://caarlos7x.github.io/whattimeisit/)
 
 ## 🚀 Getting Started -
 
@@ -38,3 +38,5 @@ single version
 ---
 
 ⌨️ with ❤️ by [Carlos Augusto](https://gist.github.com/Caarlos7x) 😊
+
+
